@@ -15,7 +15,18 @@
             "currency": "USD",
             "dimensions": "60x60 cm",
             "material": "Ceramic",
-            "inStock": true
+            "inStock": true,
+            "creator": "ArtisanCeramics Co.",
+            "styleDescription": "A vibrant glossy blue ceramic tile that adds a bold, Mediterranean-inspired charm to kitchens and bathrooms.",
+            "tags": [
+                "Glossy",
+                "Blue",
+                "Ceramic",
+                "Mediterranean",
+                "Wall Tile"
+            ],
+            "style": "Mediterranean",
+            "finish": "Glossy"
         },
         {
             "id": "tile_002",
@@ -32,7 +43,18 @@
             "currency": "USD",
             "dimensions": "80x80 cm",
             "material": "Marble",
-            "inStock": true
+            "inStock": true,
+            "creator": "StoneHaus Marbles",
+            "styleDescription": "A timeless white marble tile featuring delicate natural veining, perfect for luxury bathrooms and foyers.",
+            "tags": [
+                "Elegant",
+                "White",
+                "Marble",
+                "Luxury",
+                "Veined"
+            ],
+            "style": "Classic",
+            "finish": "Polished"
         },
         {
             "id": "tile_003",
@@ -49,7 +71,18 @@
             "currency": "USD",
             "dimensions": "60x120 cm",
             "material": "Natural Stone",
-            "inStock": true
+            "inStock": true,
+            "creator": "NatureCraft Stone",
+            "styleDescription": "A sleek matte grey natural stone tile with a contemporary look, ideal for open-plan living spaces and corridors.",
+            "tags": [
+                "Modern",
+                "Matte",
+                "Grey",
+                "Stone",
+                "Floor Tile"
+            ],
+            "style": "Modern",
+            "finish": "Matte"
         },
         {
             "id": "tile_004",
@@ -66,7 +99,18 @@
             "currency": "USD",
             "dimensions": "20x120 cm",
             "material": "Porcelain",
-            "inStock": false
+            "inStock": false,
+            "creator": "UrbanGrain Tiles",
+            "styleDescription": "A realistic wood-effect porcelain tile offering the warmth of timber with the durability of ceramic, suited for modern living rooms.",
+            "tags": [
+                "Wood Effect",
+                "Porcelain",
+                "Modern",
+                "Warm Tone",
+                "Floor Tile"
+            ],
+            "style": "Contemporary",
+            "finish": "Satin"
         },
         {
             "id": "tile_005",
@@ -83,7 +127,18 @@
             "currency": "USD",
             "dimensions": "60x60 cm",
             "material": "Granite",
-            "inStock": true
+            "inStock": true,
+            "creator": "GraniteEdge Works",
+            "styleDescription": "A premium polished black granite tile that exudes sophistication and boldness, ideal for statement floors and countertops.",
+            "tags": [
+                "Polished",
+                "Black",
+                "Granite",
+                "Bold",
+                "Premium"
+            ],
+            "style": "Luxury",
+            "finish": "Polished"
         },
         {
             "id": "tile_006",
@@ -100,7 +155,18 @@
             "currency": "USD",
             "dimensions": "30x30 cm",
             "material": "Glass Mosaic",
-            "inStock": true
+            "inStock": true,
+            "creator": "MosaicArt Studio",
+            "styleDescription": "A vibrant aqua glass mosaic tile with a shimmering decorative finish, perfect for bathroom feature walls and pool surrounds.",
+            "tags": [
+                "Mosaic",
+                "Aqua",
+                "Glass",
+                "Decorative",
+                "Bathroom"
+            ],
+            "style": "Decorative",
+            "finish": "Glossy"
         },
         {
             "id": "tile_007",
@@ -117,7 +183,18 @@
             "currency": "USD",
             "dimensions": "45x45 cm",
             "material": "Ceramic",
-            "inStock": false
+            "inStock": false,
+            "creator": "EarthTone Ceramics",
+            "styleDescription": "A characterful rustic brown ceramic tile with an earthy, hand-crafted texture that brings warmth to country-style kitchens and patios.",
+            "tags": [
+                "Rustic",
+                "Brown",
+                "Earthy",
+                "Textured",
+                "Country Style"
+            ],
+            "style": "Rustic",
+            "finish": "Textured"
         },
         {
             "id": "tile_008",
@@ -134,7 +211,18 @@
             "currency": "USD",
             "dimensions": "60x60 cm",
             "material": "Porcelain",
-            "inStock": true
+            "inStock": true,
+            "creator": "PorcelainCraft Italia",
+            "styleDescription": "A high-gloss beige porcelain tile with a clean, neutral tone that effortlessly complements both contemporary and classic interiors.",
+            "tags": [
+                "Glossy",
+                "Beige",
+                "Porcelain",
+                "Neutral",
+                "Versatile"
+            ],
+            "style": "Contemporary",
+            "finish": "Glossy"
         },
         {
             "id": "tile_009",
@@ -151,7 +239,18 @@
             "currency": "USD",
             "dimensions": "40x80 cm",
             "material": "Travertine",
-            "inStock": true
+            "inStock": true,
+            "creator": "RomanStone Imports",
+            "styleDescription": "A classic travertine tile with a smooth honed surface, drawing on timeless Roman aesthetics for upscale hallways and living areas.",
+            "tags": [
+                "Classic",
+                "Travertine",
+                "Natural Stone",
+                "Smooth",
+                "Upscale"
+            ],
+            "style": "Classic",
+            "finish": "Honed"
         },
         {
             "id": "tile_010",
@@ -168,7 +267,18 @@
             "currency": "USD",
             "dimensions": "30x30 cm",
             "material": "Ceramic",
-            "inStock": true
+            "inStock": true,
+            "creator": "HeritagePattern Design",
+            "styleDescription": "A charming vintage-patterned ceramic tile with intricate geometric motifs, ideal for feature walls, backsplashes, and eclectic interiors.",
+            "tags": [
+                "Vintage",
+                "Patterned",
+                "Decorative",
+                "Geometric",
+                "Eclectic"
+            ],
+            "style": "Vintage",
+            "finish": "Matte"
         },
         {
             "id": "tile_011",
@@ -185,7 +295,18 @@
             "currency": "USD",
             "dimensions": "60x120 cm",
             "material": "Porcelain",
-            "inStock": true
+            "inStock": true,
+            "creator": "UrbanLoft Surfaces",
+            "styleDescription": "An industrial-style concrete-look porcelain tile with a subtle matte texture, perfect for loft apartments, offices, and modern retail spaces.",
+            "tags": [
+                "Industrial",
+                "Concrete Look",
+                "Matte",
+                "Grey",
+                "Modern"
+            ],
+            "style": "Industrial",
+            "finish": "Matte"
         },
         {
             "id": "tile_012",
@@ -202,7 +323,18 @@
             "currency": "USD",
             "dimensions": "40x40 cm",
             "material": "Clay",
-            "inStock": false
+            "inStock": false,
+            "creator": "SolClay Artisans",
+            "styleDescription": "A sun-baked terracotta clay tile with a warm, organic texture that evokes Mediterranean and Tuscan countryside aesthetics.",
+            "tags": [
+                "Terracotta",
+                "Clay",
+                "Warm",
+                "Mediterranean",
+                "Natural Texture"
+            ],
+            "style": "Rustic",
+            "finish": "Natural"
         },
         {
             "id": "tile_013",
@@ -219,7 +351,18 @@
             "currency": "USD",
             "dimensions": "120x120 cm",
             "material": "Marble",
-            "inStock": true
+            "inStock": true,
+            "creator": "AuroreLux Marbleworks",
+            "styleDescription": "An opulent marble tile with striking gold vein detailing, designed for grand entrances, luxury hotel lobbies, and high-end residential spaces.",
+            "tags": [
+                "Luxury",
+                "Gold Vein",
+                "Marble",
+                "Opulent",
+                "Statement"
+            ],
+            "style": "Luxury",
+            "finish": "Polished"
         },
         {
             "id": "tile_014",
@@ -236,7 +379,18 @@
             "currency": "USD",
             "dimensions": "50x50 cm",
             "material": "Stone",
-            "inStock": true
+            "inStock": true,
+            "creator": "OutdoorEdge Surfaces",
+            "styleDescription": "A robust slip-resistant stone tile engineered for outdoor use, combining safety with a rugged natural aesthetic for patios, terraces, and garden paths.",
+            "tags": [
+                "Outdoor",
+                "Slip-Resistant",
+                "Textured",
+                "Stone",
+                "Durable"
+            ],
+            "style": "Outdoor",
+            "finish": "Textured"
         },
         {
             "id": "tile_015",
@@ -253,7 +407,18 @@
             "currency": "USD",
             "dimensions": "60x60 cm",
             "material": "Ceramic",
-            "inStock": true
+            "inStock": true,
+            "creator": "PureForm Ceramics",
+            "styleDescription": "A clean, minimalist white ceramic tile with a smooth surface that serves as a versatile canvas for any modern interior design scheme.",
+            "tags": [
+                "Minimalist",
+                "White",
+                "Ceramic",
+                "Clean",
+                "Modern"
+            ],
+            "style": "Minimalist",
+            "finish": "Smooth"
         },
         {
             "id": "tile_016",
@@ -270,7 +435,18 @@
             "currency": "USD",
             "dimensions": "25x25 cm",
             "material": "Porcelain",
-            "inStock": false
+            "inStock": false,
+            "creator": "GeoForm Tile Studio",
+            "styleDescription": "A bold matte black hexagonal porcelain tile that creates striking geometric patterns, perfect for contemporary bathrooms and kitchen floors.",
+            "tags": [
+                "Geometric",
+                "Hexagon",
+                "Black",
+                "Matte",
+                "Contemporary"
+            ],
+            "style": "Geometric",
+            "finish": "Matte"
         },
         {
             "id": "tile_017",
@@ -287,7 +463,18 @@
             "currency": "USD",
             "dimensions": "30x60 cm",
             "material": "Ceramic",
-            "inStock": true
+            "inStock": true,
+            "creator": "CoastalClay Designs",
+            "styleDescription": "An ocean-inspired deep green glossy ceramic wall tile that infuses coastal freshness and vitality into bathrooms and kitchen splashbacks.",
+            "tags": [
+                "Coastal",
+                "Green",
+                "Glossy",
+                "Wall Tile",
+                "Ocean Inspired"
+            ],
+            "style": "Coastal",
+            "finish": "Glossy"
         },
         {
             "id": "tile_018",
@@ -304,7 +491,18 @@
             "currency": "USD",
             "dimensions": "60x90 cm",
             "material": "Slate Stone",
-            "inStock": true
+            "inStock": true,
+            "creator": "WildSlate Quarries",
+            "styleDescription": "A dark, rugged slate stone tile with a raw natural finish that adds depth and drama to feature walls, fireplaces, and outdoor landscapes.",
+            "tags": [
+                "Dark",
+                "Slate",
+                "Rugged",
+                "Natural",
+                "Feature Wall"
+            ],
+            "style": "Industrial",
+            "finish": "Natural"
         },
         {
             "id": "tile_019",
@@ -321,7 +519,18 @@
             "currency": "USD",
             "dimensions": "80x80 cm",
             "material": "Porcelain",
-            "inStock": true
+            "inStock": true,
+            "creator": "NacreLux Porcelain",
+            "styleDescription": "A premium ivory porcelain tile with a lustrous pearl finish, lending a soft, refined elegance to master bedrooms, en-suites, and reception areas.",
+            "tags": [
+                "Pearl",
+                "Ivory",
+                "Premium",
+                "Porcelain",
+                "Elegant"
+            ],
+            "style": "Luxury",
+            "finish": "Pearl"
         },
         {
             "id": "tile_020",
@@ -338,7 +547,18 @@
             "currency": "USD",
             "dimensions": "30x30 cm",
             "material": "Ceramic",
-            "inStock": false
+            "inStock": false,
+            "creator": "BloomCraft Tile Co.",
+            "styleDescription": "An artistic designer ceramic tile featuring hand-drawn floral patterns, ideal for creating eye-catching accent walls, powder rooms, and garden-themed spaces.",
+            "tags": [
+                "Floral",
+                "Designer",
+                "Artistic",
+                "Accent Wall",
+                "Ceramic"
+            ],
+            "style": "Decorative",
+            "finish": "Satin"
         }
     ]
 }
